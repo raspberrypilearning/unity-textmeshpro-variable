@@ -1,0 +1,9 @@
+title: Display the value of a variable with TextMeshPro
+hero_image: images/banner.png
+description: Display the value of a variable with a TextMeshPro UI GameObject. 
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-11-18"
+steps:
+  - title: Display the value of a variable with TextMeshPro
