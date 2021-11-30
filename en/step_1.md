@@ -4,7 +4,10 @@ Create a TextMeshPro object in the Hierarchy.
 
 Add, or update a script on the GameObject that has the variable you want to display: 
 
-```
+--- code ---
+---
+language: cs
+---
 using UnityEngine;
 using TMPro;
 
@@ -19,7 +22,7 @@ public class StarPlayer: MonoBehaviour
     starText.SetText("Stars: " + stars);
   }
 }
-```
+--- /code ---
 
 Drag the TextMeshPro object from the Hierarchy to the corresponding property in the script.
 
