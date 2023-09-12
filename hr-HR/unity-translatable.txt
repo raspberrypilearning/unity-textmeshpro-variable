@@ -1,0 +1,6 @@
+StarPlayer
+
+stars
+
+starText
+

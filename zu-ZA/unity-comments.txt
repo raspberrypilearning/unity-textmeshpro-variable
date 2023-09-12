@@ -1,0 +1,10 @@
+the variable to display
+
+The TextMeshPro object to display
+
+Update is called once per frame
+
+Stars: 
+
+
+
