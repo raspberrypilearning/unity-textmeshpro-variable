@@ -2,5 +2,5 @@ JoueurEtoile
 
 etoiles
 
-Texteetoile
+texteEtoile
 
