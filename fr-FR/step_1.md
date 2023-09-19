@@ -1,8 +1,8 @@
-You can use a TextMeshPro object to display the value of a variable so that the player can see it. This is useful for displaying variables such as score, points, and lives.
+Tu peux utiliser un objet TextMeshPro pour afficher la valeur d'une variable afin que le joueur puisse la voir. Ceci est utile pour afficher des variables telles que le score, les points et les vies.
 
-Create a TextMeshPro object in the Hierarchy window.
+Crée un objet TextMeshPro dans la fenêtre Hierarchy.
 
-Add, or update, a script on the GameObject that has the variable you want to display:
+Ajoute, ou mets à jour, un script sur le GameObject qui possède la variable que tu veux afficher :
 
 --- code ---
 ---
@@ -19,6 +19,6 @@ public class StarPlayer: MonoBehaviour
   }
 } --- /code ---
 
-Drag the TextMeshPro object from the Hierarchy window to the corresponding property in the script.
+Fais glisser l'objet TextMeshPro de la fenêtre Hierarchy vers la propriété correspondante dans le script.
 
-**Test:** Make sure the variable is displayed and updates when the variable is updated. 
+**Test :** assure-toi que la variable est affichée et se met à jour lorsque la variable est actualisée. 
