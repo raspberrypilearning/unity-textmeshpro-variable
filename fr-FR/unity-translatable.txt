@@ -1,6 +1,6 @@
-StarPlayer
+JoueurEtoile
 
-stars
+etoiles
 
-starText
+Texteetoile
 
