@@ -1,0 +1,10 @@
+la variable à afficher
+
+L'objet TextMeshPro à afficher
+
+Update est appelée une fois par image
+
+Étoiles : 
+
+
+
