@@ -1,10 +1,10 @@
-the variable to display
+de variabele die moet worden weergegeven
 
-The TextMeshPro object to display
+Het TextMeshPro-object dat moet worden weergegeven
 
-Update is called once per frame
+Update wordt één keer per frame aangeroepen
 
-Stars: 
+Sterren: 
 
 
 
