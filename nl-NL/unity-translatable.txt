@@ -1,6 +1,6 @@
-StarPlayer
+SterSpeler
 
-stars
+sterren
 
-starText
+sterTekst
 
