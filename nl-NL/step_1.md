@@ -1,8 +1,8 @@
-You can use a TextMeshPro object to display the value of a variable so that the player can see it. This is useful for displaying variables such as score, points, and lives.
+Je kunt een TextMeshPro-object gebruiken om de waarde van een variabele weer te geven, zodat de speler deze kan zien. Dit is handig voor het weergeven van variabelen zoals score, punten en levens.
 
-Create a TextMeshPro object in the Hierarchy window.
+Maak een TextMeshPro-object in het Hierarchy venster.
 
-Add, or update, a script on the GameObject that has the variable you want to display:
+Voeg een script toe of update het op het GameObject dat de variabele bevat die je wilt weergeven:
 
 --- code ---
 ---
@@ -19,6 +19,6 @@ public class StarPlayer: MonoBehaviour
   }
 } --- /code ---
 
-Drag the TextMeshPro object from the Hierarchy window to the corresponding property in the script.
+Sleep het TextMeshPro-object vanuit het Hierarchy venster naar de overeenkomstige eigenschap in het script.
 
-**Test:** Make sure the variable is displayed and updates when the variable is updated. 
+**Test:** Zorg ervoor dat de variabele wordt weergegeven en de waarde wordt bijgewerkt wanneer de variabele wordt bijgewerkt. 
