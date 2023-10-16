@@ -1,0 +1,10 @@
+de variabele die moet worden weergegeven
+
+Het TextMeshPro-object dat moet worden weergegeven
+
+Update wordt één keer per frame aangeroepen
+
+Sterren: 
+
+
+
